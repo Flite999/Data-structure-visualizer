@@ -1,2 +1,2 @@
-# Visual-LinkedList
-React UI to visualize LinkedList - click and add new nodes, remove, edit
+# data-structure-visualizer
+React UI to visualize data structures - click and add new nodes, remove, edit
